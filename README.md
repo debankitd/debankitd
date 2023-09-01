@@ -1,7 +1,7 @@
 [![MasterHead](https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif)]
 
 <h1 align="center">Hi 👋, I'm Debankit Dey</h1>
-<h3 align="center">Passionate  Data Analyst</h3>
+<h3 align="center">Passionate Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
