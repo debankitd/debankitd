@@ -1,31 +1,26 @@
-### Hi there 👋
+[![MasterHead](https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif)]
 
-[![MasterHead](https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif)](https://Sannidhi-Shetty.io)
-
-<h1 align="center">Hi 👋, I'm Sannidhi Shetty</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h1 align="center">Hi 👋, I'm Debankit Dey</h1>
+<h3 align="center">Passionate as a Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif">
 
 
-💻 Software Test Engineer with a passion for data analysis and visualization. 📊
+💻 I am currently working as a Data Analyst, passionate about learning new concepts and tools to expand my knowledge in Data and Analytics domain.
 
-🔍 As a Software Test Engineer, I have honed my attention to detail and analytical mindset, ensuring the quality and reliability of software products. Now, I'm eager to leverage my skills in a new direction as a Data Analyst. 🚀
+🔍 As a Data Analyst, I need to maintain the database and create impactful dashboards to provide insights about data to clients, based on which data-driven business decisions can be made. I have one year of experience during which I have developed complex pipelines to gather data from various sources periodically, created complex queries to fulfill business requirements, and built impactful dashboards for data visualization.
 
-🔎 Currently on a journey to explore and analyze complex datasets, I'm excited to create meaningful visualizations and uncover valuable patterns to support data-driven decision-making. 💡
-
-🌱 Continuously learning and growing, I'm open to collaboration and opportunities to apply my skills in real-world data analysis projects.🌌
+🔎 I am currently on a journey to explore and analyze more complex datasets, eager to learn new concepts and technologies that can help me improve myself as a Data Analyst/Data Engineer.
 
 #DataAnalyst #Python #SQL #PowerBI #DataVisualization #MachineLearning #ProblemSolver
 
-
-- 📫 How to reach me 📧 **sannidhi.r.v@gmail.com**
+- 📫 How to reach me 📧 *debankitd@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sannidhi-r-shetty-7836a116b/" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
-  <a href="https://github.com/Sannidhi-Shetty2"><img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
-<a href="mailto:sannidhi.r.v@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/%20debankit-d-069659201" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+  <a href="https://github.com/debankitd"><img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
+<a href="debankitd@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
 
 </p>
 
