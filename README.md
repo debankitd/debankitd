@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Debankit Dey</h1>
 
-<h3 align="center">Passionate Data Analyst</h3>
+<h3 align="center">Passionate Data Engineer</h3>
 <img align="right" alt="Coding" height="400" width="450" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="max-width: 100%;">
 
 💻 I am currently working as a Data Analyst, passionate about learning new concepts and tools to expand my knowledge in the Data and Analytics domain.
