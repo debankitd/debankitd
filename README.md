@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw)
 
 <h1 align="center">Hi 👋, I'm Debankit Dey</h1>
-<h3 align="center">Data Engineer | AI Solutions Developer | 3+ Years Experience</h3>
+<h3 align="center">Data Engineer | AI Solutions Developer | 3+ Years Experience</h3><br>
 
 
 👋 I’m a **Data Engineer** with expertise in building scalable **data platforms**, developing **ETL/ELT pipelines**, designing **data warehouses**, and integrating **AI solutions** into business workflows.
@@ -10,6 +10,26 @@
 
 📊 My responsibilities span data warehousing (SCD), real-time analytics, observability systems, and cloud-native automation.
 
+---
+
+### 💡 Technical Skills
+
+#### 🏗️ Data Engineering
+- **ETL/ELT Pipelines**: Azure Data Factory, Fivetran, Azure Functions, Logic App  
+- **Data Warehousing**: Slowly Changing Dimensions, Fact-Dimension Modeling  
+- **Data Automation**: Event Triggers, Audit Logging, Recursive CTEs for dependency tracking  
+- **Databases**: Azure SQL, Snowflake, SQL Server, PostgreSQL, Oracle, SAP HANA  
+- **Dashboards & Reporting**: Power BI, Power Query, DAX, Row-Level Security (RLS)  
+- **DevOps & CI/CD**: GitHub Actions, Docker, CI/CD pipelines  
+
+#### 🤖 AI/GenAI & LLM Systems
+- **LLM & GenAI Tools**: OpenAI APIs, Claude, Hugging Face, Langchain, CrewAI  
+- **LLM Architectures**: Retrieval-Augmented Generation (RAG), Agentic AI  
+- **AI Applications**: Document Summarization, Natural Language to SQL, Q&A Chatbots  
+- **System Integration**: Streamlit dashboards, FastAPI microservices, Power BI embedding  
+- **Prompt Engineering**: Instruction tuning, chain-of-thought reasoning, semantic query parsing  
+
+---
 
 #DataAnalyst #Python #SQL #PowerBI #DataVisualization #MachineLearning #ProblemSolver
 
