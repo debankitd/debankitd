@@ -31,7 +31,8 @@
 
 ---
 
-#DataAnalyst #Python #SQL #PowerBI #DataVisualization #MachineLearning #ProblemSolver
+#DataEngineer #AzureDataFactory #SQL #PowerBI #LLM #GenAI #RAG #DataWarehouse #ETL #Automation #CloudEngineering
+
 
 - 📫 How to reach me 📧 *debankitd@gmail.com*
 
