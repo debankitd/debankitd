@@ -25,8 +25,8 @@
 #### 🤖 AI/GenAI & LLM Systems
 - **LLM & GenAI Tools**: OpenAI APIs, Claude, Hugging Face, Langchain, CrewAI  
 - **LLM Architectures**: Retrieval-Augmented Generation (RAG), Agentic AI  
-- **AI Applications**: Document Summarization, Natural Language to SQL, Q&A Chatbots  
-- **System Integration**: Streamlit dashboards, FastAPI microservices, Power BI embedding  
+- **AI Applications**: Document Summarization, Natural Language to SQL, Q&A Chatbots,   
+- **System Integration**: Streamlit dashboards, FastAPI, Power BI embedding  
 - **Prompt Engineering**: Instruction tuning, chain-of-thought reasoning, semantic query parsing  
 
 ---
