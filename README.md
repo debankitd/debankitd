@@ -2,13 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Debankit Dey</h1>
 <h3 align="center">Data Engineer | AI Solutions Developer | 3+ Years Experience</h3>
-<img align="right" alt="Coding" height="400" width="450" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="max-width: 100%;">
 
-💼 I'm a Data Engineer & AI Solutions Developer with 3+ years of experience designing scalable data pipelines, deploying ML models, and building interactive BI dashboards.
 
-🔍 I've delivered solutions for global clients like **Novartis**, **Gilead**, and **PwC**, and worked extensively on platforms like **Azure**, **Databricks**, **Snowflake**, and **Power BI**.
+👋 I’m a **Data Engineer** with expertise in building scalable **data platforms**, developing **ETL/ELT pipelines**, designing **data warehouses**, and integrating **AI solutions** into business workflows.
 
-🚀 I'm currently working at **Bizinsights** on pharmaceutical data analytics and ETL engineering, and previously built LLM-powered analytics tools and observability platforms.
+🔧 I work on solutions that combine **Azure Data Factory**, **Logic Apps**, and **Power BI** with **LLM-based architectures**, such as **RAG pipelines**, **crewAI-based agent frameworks**, and **LLM-powered analytics tools**.
+
+📊 My responsibilities span data warehousing (SCD), real-time analytics, observability systems, and cloud-native automation.
+
 
 #DataAnalyst #Python #SQL #PowerBI #DataVisualization #MachineLearning #ProblemSolver
 
