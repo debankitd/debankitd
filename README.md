@@ -1,15 +1,14 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw)
 
 <h1 align="center">Hi 👋, I'm Debankit Dey</h1>
-
-<h3 align="center">Passionate Data Engineer</h3>
+<h3 align="center">Data Engineer | AI Solutions Developer | 3+ Years Experience</h3>
 <img align="right" alt="Coding" height="400" width="450" src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="max-width: 100%;">
 
-💻 I am currently working as a Data Analyst, passionate about learning new concepts and tools to expand my knowledge in the Data and Analytics domain.
+💼 I'm a Data Engineer & AI Solutions Developer with 3+ years of experience designing scalable data pipelines, deploying ML models, and building interactive BI dashboards.
 
-🔍 As a Data Analyst, I need to maintain the database and create impactful dashboards to provide insights about data to clients, based on which data-driven business decisions can be made. I have one year of experience during which I have developed complex pipelines to gather data from various sources periodically, created complex queries to fulfil business requirements, and built impactful dashboards for data visualization.
+🔍 I've delivered solutions for global clients like **Novartis**, **Gilead**, and **PwC**, and worked extensively on platforms like **Azure**, **Databricks**, **Snowflake**, and **Power BI**.
 
-🔎 I am currently on a journey to explore and analyze more complex datasets, eager to learn new concepts and technologies that can help me improve myself as a Data Analyst/Data Engineer.
+🚀 I'm currently working at **Bizinsights** on pharmaceutical data analytics and ETL engineering, and previously built LLM-powered analytics tools and observability platforms.
 
 #DataAnalyst #Python #SQL #PowerBI #DataVisualization #MachineLearning #ProblemSolver
 
