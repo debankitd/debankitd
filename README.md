@@ -14,20 +14,20 @@
 
 ### 💡 Technical Skills
 
-#### 🏗️ Data Engineering
-- **ETL/ELT Pipelines**: Azure Data Factory, Fivetran, Azure Functions, Logic App  
-- **Data Warehousing**: Slowly Changing Dimensions, Fact-Dimension Modeling  
-- **Data Automation**: Event Triggers, Audit Logging, Recursive CTEs for dependency tracking  
-- **Databases**: Azure SQL, Snowflake, SQL Server, PostgreSQL, Oracle, SAP HANA  
-- **Dashboards & Reporting**: Power BI, Power Query, DAX, Row-Level Security (RLS)  
-- **DevOps & CI/CD**: GitHub Actions, Docker, CI/CD pipelines  
+#### ☁️ Cloud & ETL  
+- **Technologies**: Azure Data Factory, Azure Data Lake, Azure SQL, Fivetran, Azure Functions, AI Foundry, Logic App
 
-#### 🤖 AI/GenAI & LLM Systems
-- **LLM & GenAI Tools**: OpenAI APIs, Claude, Hugging Face, Langchain, CrewAI  
-- **LLM Architectures**: Retrieval-Augmented Generation (RAG), Agentic AI  
-- **AI Applications**: Document Summarization, Natural Language to SQL, Q&A Chatbots,   
-- **System Integration**: Streamlit dashboards, FastAPI, Power BI embedding  
-- **Prompt Engineering**: Instruction tuning, chain-of-thought reasoning, semantic query parsing  
+#### 🤖 ML & AI  
+- **Libraries & Tools**: Scikit-learn, Facebook Prophet, OpenAI APIs, RAG, Gradient Boosting, Claude, Hugging Face
+
+#### 🧰 Backend, Deployment & DevOps  
+- **Tools**: FastAPI, Docker, CI/CD, Git, GitHub Actions, Containerization, Azure DevOps
+
+#### 📈 Visualization  
+- **Tools**: Power BI, Matplotlib, Seaborn, Streamlit
+
+#### 🗄️ Databases  
+- **Technologies**: SQL Server, PostgreSQL, Oracle, SAP HANA, MySQL
 
 ---
 
